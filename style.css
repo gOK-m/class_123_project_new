@@ -1,0 +1,23 @@
+#label_div{
+    width: 100%;
+    box-shadow: 5px 5px 25px black;
+}
+
+#NOTE{
+    color: black;
+}
+
+canvas{
+    border: 10px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px black;
+    background-color: red;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
